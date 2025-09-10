@@ -1,11 +1,10 @@
 # 👋 Hola, soy Santiago Morales
 
 Estudiante de **Ingeniería de Sistemas** (7.º semestre) en la **Universidad Icesi** — Cali, Colombia.  
-Enfocado en el **desarrollo de software**, me especializo en **backend**, análisis de datos y desarrollo **full‑stack**. Manejo **Java, Python, Django, PostgreSQL, SQL** y utilizo metodologías ágiles como **Scrum**.
+Enfocado en el **desarrollo de software**, conocimientos en **backend, frontend**, análisis de datos y desarrollo **full‑stack**. Manejo **Java, Python, Django, PostgreSQL, SQL** y utilizo metodologías ágiles como **Scrum**.
 
 - 🌟 Busco aplicar y mejorar mis conocimientos en diseño de APIs, arquitecturas backend y procesos ETL.
-- 💻 También exploro tecnologías de frontend (HTML, CSS, JavaScript) para crear interfaces amigables.
-- 🌱 Actualmente aprendiendo sobre patrones de diseño, pruebas automatizadas, Spring Boot y despliegue en cloud.
+- 💻 También exploro tecnologías de frontend (HTML, CSS, JavaScript, JavaFX).
 - 📍 Cali, Colombia
 
 ## 🛠⃣ Tech Stack
